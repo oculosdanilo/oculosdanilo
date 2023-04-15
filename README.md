@@ -1,5 +1,5 @@
 # Oi!! Meu nome é Danilo
-### Seja bem-vindo! Quer chá ou café?
+### Seja bem-vindo(a). Quer chá ou café?
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oculosdanilo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
