@@ -1,6 +1,12 @@
 ## Oi! Meu nome é Danilo
 ### Seja bem-vindo! Quer chá ou café?
 
+<div align="center">
+  <a href="https://github.com/Camila-tech2">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Camila-tech2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-tech2&layout=compact&langs_count=5&theme=dracula"/> </a>
+</div>
+
 <!--
 **oculosdanilo/oculosdanilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
