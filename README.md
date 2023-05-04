@@ -2,7 +2,7 @@
 ### Seja bem-vindo(a). Quer chá ou café?☕
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oculosdanilo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oculosdanilo)](https://github.com/anuraghazra/github-readme-stats)
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 
