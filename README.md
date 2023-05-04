@@ -3,7 +3,7 @@
 
 <div align="center">
   <picture>
-    <img src="[https://github-readme-stats.vercel.app/api?username=oculosdanilo&show_icons=true&theme=midnight-purple](https://camo.githubusercontent.com/293ada368e8adae49234a1ab2d0f8351c95ab953bed5278c362f745c8257dcfe/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f63756c6f7364616e696c6f2673686f775f69636f6e733d74727565267468656d653d6d69646e696768742d707572706c65)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=oculosdanilo&show_icons=true&theme=midnight-purple" />
   </picture>
   &nbsp;
   &nbsp;
