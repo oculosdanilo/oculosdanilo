@@ -26,7 +26,7 @@
 
 <h3><a href="https://etec199-danilolima.epizy.com/" target="_blank">Portfólio pessoal (Web)</a></h3>
 <h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit</a></h3>
-<h5>Colaborando atualmente com o projeto Flyvoo (<a href="">Journey</a>)</h5>
+<h5>Colaborando atualmente com o projeto <a href="https://github.com/oculosdanilo/flyvoo">Flyvoo</a> (<a href="">Journey</a>)</h5>
 
 
 <!--
