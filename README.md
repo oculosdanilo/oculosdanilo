@@ -21,12 +21,12 @@
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs_small.svg">
   <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</div><br>
+</div></br>
 
 
 <h3><a href="https://etec199-danilolima.xp3.biz/" target="_blank">Portfólio pessoal (Web)</a></h3>
 <h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit</a></h3>
-<h5>Colaborando atualmente com o projeto [Easda sdad sda](https://github.com/journey-etecct/flyvoo-app) (<a href="https://github.com/journey-etecct">Journey</a>)</h5>
+<h5>Colaborando atualmente com o projeto Flyvoo (<a href="https://github.com/journey-etecct/flyvoo-app">Android</a> / <a href="https://github.com/journey-etecct/flyvoo-web">Web</a>) por <a href="https://github.com/journey-etecct">Journey</a></h5>
 
 
 <!--
