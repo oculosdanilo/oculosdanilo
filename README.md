@@ -1,5 +1,5 @@
-# Oi!! Meu nome é Danilo
-### Seja bem-vindo(a). Quer chá ou café?☕
+<h1>Oi!! Meu nome é Danilo</h1>
+<h3> Seja bem-vindo(a). Quer chá ou café?☕</h3>
 
 <div align="center">
   <picture>
@@ -10,7 +10,7 @@
   </picture>
 </div>
 
-### Especializado em:
+<h3>Especializado em:</h3>
 <div>
   <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
