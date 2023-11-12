@@ -1,11 +1,10 @@
 
 <h3> Seja bem-vindo(a). Quer chá ou café?☕</h3>
 
-<div>
-  <picture align="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&theme=midnight-purple" width="355px" />
-  </picture>
-  <div align="top">
+<div style="display: inline_block">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&theme=midnight-purple" width="355px" />
+  
+  <div align="left">
     <h3>Especializado em:</h3>
     <div>
       <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
@@ -19,9 +18,12 @@
   </div>
 </div>
 
-<h3><a href="https://etec199-danilolima.xp3.biz/" target="_blank">Portfólio pessoal (Web)</a></h3>
-<h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit</a></h3>
-<h5>Colaborando atualmente com o projeto Flyvoo (<a href="https://github.com/journey-etecct/flyvoo-app">Android</a> / <a href="https://github.com/journey-etecct/flyvoo-web">Web</a>) por <a href="https://github.com/journey-etecct">Journey</a></h5>
+<div align="right">
+  <h3><a href="https://etec199-danilolima.xp3.biz/" target="_blank">Portfólio pessoal (Web)</a></h3>
+  <h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit</a></h3>
+  <h5>Colaborando atualmente com o projeto Flyvoo (<a href="https://github.com/journey-etecct/flyvoo-app">Android</a> / <a href="https://github.com/journey-etecct/flyvoo-web">Web</a>) na empresa <a href="https://github.com/journey-etecct">Journey</a></h5>
+</div>
+
 
 
 <!--
