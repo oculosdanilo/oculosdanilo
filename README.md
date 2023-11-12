@@ -1,26 +1,23 @@
 
 <h3> Seja bem-vindo(a). Quer chá ou café?☕</h3>
 
-<div align="center">
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=oculosdanilo&show_icons=true&theme=midnight-purple" />
-  </picture>
-  <picture>
+<div>
+  <picture align="top">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&theme=midnight-purple" width="355px" />
   </picture>
+  <div align="top">
+    <h3>Especializado em:</h3>
+    <div>
+      <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
+      <img alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+      <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+      <img alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+      <img alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+      <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs_small.svg">
+      <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    </div></br>  
+  </div>
 </div>
-
-<h3>Especializado em:</h3>
-<div>
-  <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">  
-  <img alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs_small.svg">
-  <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</div></br>
-
 
 <h3><a href="https://etec199-danilolima.xp3.biz/" target="_blank">Portfólio pessoal (Web)</a></h3>
 <h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit</a></h3>
