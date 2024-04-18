@@ -1,9 +1,9 @@
 <h3> Seja bem-vindo(a). Quer chá ou café?☕</h3>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&bg_color=7F60BE&title_color=E9E7EF&text_color=E9E7EF&hide_border=true&locale=pt-br" width="400px"  alt=""/>
-
-  <div style="display: flex; flex-direction: row;">
-    <div align="top">
+<div style="display: flex; justify-content: flex-start; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&bg_color=7F60BE&title_color=E9E7EF&text_color=E9E7EF&hide_border=true&locale=pt-br" width="400px"  alt=""/>
+  <div>
+    <div>
       <h3>Especializado em:</h3>
       <div>
         <img alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
@@ -14,36 +14,34 @@
        <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
       </div>
     </div>
-
-<div>
-  <h3>Aprendendo:</h3>
-  <img alt="Vue" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
-  <img alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" />
-  <img alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />
-</div>
+    <div>
+      <h3>Aprendendo:</h3>
+      <img alt="Vue" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
+      <img alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" />
+      <img alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />
+    </div>
   </div>
 </div>
 
-<div>
-  <div align="top">
+<div style="display: flex; justify-content: flex-end; align-items: center;">
+  <div align="left">
     <h3><a href="https://etec199-danilolima.xp3.biz/" target="_blank">Portfólio pessoal (Web)</a></h3>
     <h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit</a></h3>
     <h5>Colaborador principal do projeto Flyvoo (<a href="https://github.com/journey-etecct/flyvoo-app">Android</a> / <a href="https://github.com/journey-etecct/flyvoo-web">Web</a>) na empresa <a href="https://github.com/journey-etecct">Journey</a></h5>
   </div>
-
-  <div align="top">
-    <table>
-      <tr>
-        <td>Sim</td>
-        <td>Sim</td>
-      </tr>
-      <tr>
-        <td>Sim</td>
-        <td>Sim</td>
-      </tr>
-    </table>
-  </div>
+  <table align="right">
+    <tr>
+      <td>Sim</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>Sim</td>
+      <td>Sim</td>
+    </tr>
+  </table>
 </div>
+
+
 
 
 <!--
