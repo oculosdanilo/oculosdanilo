@@ -26,19 +26,25 @@
 </div>
 
 <div>
-  <div align="right">
+  <div align="top">
     <h3><a href="https://etec199-danilolima.xp3.biz/" target="_blank">Portfólio pessoal (Web)</a></h3>
     <h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit</a></h3>
     <h5>Colaborador principal do projeto Flyvoo (<a href="https://github.com/journey-etecct/flyvoo-app">Android</a> / <a href="https://github.com/journey-etecct/flyvoo-web">Web</a>) na empresa <a href="https://github.com/journey-etecct">Journey</a></h5>
   </div>
 
-  <div>
-    | Sim | Sim |
-    | --- | --- |
-    | Sim | Sim |
+  <div align="top">
+    <table>
+      <tr>
+        <td>Sim</td>
+        <td>Sim</td>
+      </tr>
+      <tr>
+        <td>Sim</td>
+        <td>Sim</td>
+      </tr>
+    </table>
   </div>
 </div>
-
 
 
 <!--
