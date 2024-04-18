@@ -31,6 +31,9 @@
   <a href="https://twitter.com/oDanilo05">
     <img height="40" width="40" alt="Youtube" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png"/>
   </a>
+  <a href="https://www.linkedin.com/in/danilo-lima-99bb57304">
+    <img height="40" width="40" alt="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
+  </a>
 </div>
 
 <br />
