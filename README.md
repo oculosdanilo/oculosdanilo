@@ -38,6 +38,7 @@
 
 <br />
 
+<h2 align="center">Mais sobre mim</h2>
 <div align="center">
   <div>
     <h3><a href="https://etec199-danilolima.xp3.biz/" target="_blank">Portfólio pessoal (Web)</a></h3>
