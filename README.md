@@ -1,6 +1,5 @@
 <h3> Seja bem-vindo(a). Quer chá ou café?☕</h3>
 
-<div >
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&bg_color=7F60BE&title_color=E9E7EF&text_color=E9E7EF&hide_border=true&locale=pt-br" width="400px"  alt=""/>
 
   <div style="display: flex; flex-direction: row;">
