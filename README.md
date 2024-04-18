@@ -7,20 +7,20 @@
     <div align="top">
       <h3>Especializado em:</h3>
       <div>
-        <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-        <img alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-        <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-        <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs_small.svg" />
-       <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+        <img alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+        <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
+        <img alt="Firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+        <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+        <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs_small.svg" />
+       <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
       </div>
     </div>
 
 <div>
   <h3>Aprendendo:</h3>
-  <img alt="Vue" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
-  <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
-  <img alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" />
-  <img alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />
+  <img alt="Vue" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
+  <img alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" />
+  <img alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />
 </div>
   </div>
 </div>
