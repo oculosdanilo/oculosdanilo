@@ -5,18 +5,19 @@
   <div>
     <div>
       <h3>Especializado em:</h3>
-      <img alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-      <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
-      <img alt="Firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-      <img alt="Vue" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" />
-      <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-      <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs_small.svg" />
-      <img alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-62459A?style=for-the-badge&logo=flutter&logoColor=deepskyblue" />
+      <img alt="Angular" src="https://img.shields.io/badge/Angular-62459A?style=for-the-badge&logo=angular&logoColor=F51264" />
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-62459A?style=for-the-badge&logo=firebase&logoColor=FF6038">
+      <img alt="Vue.js" src="https://img.shields.io/badge/Vue-62459A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+      <img alt="React" src="https://img.shields.io/badge/React-62459A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-62459A?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img alt="PHP" src="https://img.shields.io/badge/php-62459A?style=for-the-badge&logo=php&logoColor=AAACD0" />
     </div>
     <div>
       <h3>Aprendendo:</h3>
-      <img alt="Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" />
-      <img alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" />
+      <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-D1C5E7?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+      <img alt="Python" src="https://img.shields.io/badge/python-D1C5E7?style=for-the-badge&logo=python&logoColor=3776AB" />
+      <img alt="pontoNet" src="https://img.shields.io/badge/.net-D1C5E7?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
     </div>
   </div>
 </div>
