@@ -26,9 +26,6 @@
 
 <h2 align="center">Me encontre aqui:</h2>
 <div align="center">
-  <a href="https://www.youtube.com/@odanilodanilo">
-    <img height="40" width="40" alt="Youtube" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/>
-  </a>
   <a href="https://twitter.com/oDanilo05">
     <img height="40" width="40" alt="Youtube" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png"/>
   </a>
