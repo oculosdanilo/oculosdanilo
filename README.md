@@ -28,11 +28,11 @@
 <h2 align="center">Me encontre aqui:</h2>
 <div align="center">
   <h3><a href="https://odanilo.is-a.dev" target="_blank">Portfólio pessoal (Web)</a></h3>
-  <a href="https://twitter.com/oDanilo05">
-    <img height="40" width="40" alt="Youtube" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png"/>
+  <a href="https://bsky.app/profile/odanilo05.bsky.social">
+    <img height="40" width="40" alt="Bluesky" src="https://static.wikia.nocookie.net/logopedia/images/c/cd/Bluesky_app_icon.svg/revision/latest/scale-to-width-down/500"/>
   </a>
   <a href="https://www.linkedin.com/in/danilo-lima-99bb57304">
-    <img height="40" width="40" alt="Youtube" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
+    <img height="40" width="40" alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>
   </a>
 </div>
 
