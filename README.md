@@ -1,10 +1,12 @@
-<h2 align="center"> Seja bem-vindo(a). Quer chá ou café?☕</h3>
+<h2 align="center"> Seja bem-vindo(a). Quer chá ou café?☕</h2>
+<h3 align="center"> Welcome. Do you want coffee?☕</h3>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&bg_color=63469C&title_color=E9E7EF&text_color=E9E7EF&hide_border=true&locale=pt-br" width="400px"  alt=""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&bg_color=63469C&title_color=E9E7EF&text_color=E9E7EF&hide_border=true" width="400px"  alt=""/>
   <div>
-    <div>
-      <h3>Especializado em:</h3>
+    <div> 
+      <h3>Especializado em / Specialized in:</h3>
       <img alt="Flutter" src="https://img.shields.io/badge/Flutter-63469C?style=for-the-badge&logo=flutter&logoColor=deepskyblue" />
       <img alt="Angular" src="https://img.shields.io/badge/Angular-63469C?style=for-the-badge&logo=angular&logoColor=F73B7F" />
       <img alt="Firebase" src="https://img.shields.io/badge/Firebase-63469C?style=for-the-badge&logo=firebase&logoColor=FF6038">
@@ -14,7 +16,7 @@
       <img alt="PHP" src="https://img.shields.io/badge/php-63469C?style=for-the-badge&logo=php&logoColor=AAACD0" />
     </div>
     <div>
-      <h3>Aprendendo:</h3>
+      <h3>Aprendendo / Learning:</h3>
       <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-D1C5E7?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
       <img alt="Python" src="https://img.shields.io/badge/python-D1C5E7?style=for-the-badge&logo=python&logoColor=3776AB" />
       <img alt="pontoNet" src="https://img.shields.io/badge/.net-D1C5E7?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
@@ -25,9 +27,9 @@
 
 <br />
 
-<h2 align="center">Me encontre aqui:</h2>
+<h2 align="center">Me encontre aqui / Find me here:</h2>
 <div align="center">
-  <h3><a href="https://odanilo.is-a.dev" target="_blank">Portfólio pessoal (Web)</a></h3>
+  <h3><a href="https://odanilo.is-a.dev" target="_blank">Portfólio pessoal/Personal portfolio (Web)</a></h3>
   <a href="https://bsky.app/profile/odanilo05.bsky.social">
     <img height="40" width="40" alt="Bluesky" src="https://static.wikia.nocookie.net/logopedia/images/c/cd/Bluesky_app_icon.svg/revision/latest/scale-to-width-down/500"/>
   </a>
@@ -38,11 +40,12 @@
 
 <br />
 
-<h2 align="center">Mais sobre mim</h2>
+<h2 align="center">Mais sobre mim / More about me</h2>
 <div align="center">
   <div>
-    <h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit</a></h3>
+    <h3><a href="https://replit.com/@oculosdanilo" target="_blank"><img alt="Replit" src="./replit.png" width="25">&nbsp;Perfil no Replit / Replit profile</a></h3>
     <h5>Colaborador principal do projeto Flyvoo (<a href="https://github.com/journey-etecct/flyvoo-app">Android</a> / <a href="https://github.com/journey-etecct/flyvoo-web">Web</a>) na empresa <a href="https://github.com/journey-etecct">Journey</a></h5>
+    <h5>Main collaborator in project Flyvoo (<a href="https://github.com/journey-etecct/flyvoo-app">Android</a> / <a href="https://github.com/journey-etecct/flyvoo-web">Web</a>) at <a href="https://github.com/journey-etecct">Journey</a> company</h5>
   </div>
 </div>
 
