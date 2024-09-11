@@ -1,5 +1,5 @@
 <h2 align="center"> Seja bem-vindo(a). Quer chá ou café?☕</h2>
-<h3 align="center"> Welcome. Do you want coffee?☕</h3>
+<h3 align="center"> Welcome. Would you like some coffee?☕</h3>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oculosdanilo&layout=compact&bg_color=63469C&title_color=E9E7EF&text_color=E9E7EF&hide_border=true&locale=pt-br" width="400px"  alt=""/>
