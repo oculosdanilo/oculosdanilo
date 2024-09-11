@@ -29,7 +29,7 @@
 
 <h2 align="center">Me encontre aqui / Find me here:</h2>
 <div align="center">
-  <h3><a href="https://odanilo.is-a.dev" target="_blank">Portfólio pessoal/Personal portfolio (Web)</a></h3>
+  <h3><a href="https://odanilo.is-a.dev" target="_blank">Portfólio pessoal / Personal portfolio (Web)</a></h3>
   <a href="https://bsky.app/profile/odanilo05.bsky.social">
     <img height="40" width="40" alt="Bluesky" src="https://static.wikia.nocookie.net/logopedia/images/c/cd/Bluesky_app_icon.svg/revision/latest/scale-to-width-down/500"/>
   </a>
